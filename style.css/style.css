@@ -1,0 +1,32 @@
+body {
+  background-color: #c0c0c0;
+  text-align: center;
+  font-family: Georgia, serif;
+  margin-top: 50px;
+}
+
+#textInput {
+  padding: 8px;
+  width: 250px;
+  font-size: 14px;
+}
+
+#alertDiv {
+  background-color: darkred;
+  color: white;
+  width: 150px;
+  padding: 30px;
+  margin: 20px auto;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#alertDiv:hover {
+  background-color: red;
+}
+
+h2 {
+  font-size: 22px;
+  color: black;
+}
